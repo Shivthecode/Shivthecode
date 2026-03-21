@@ -56,13 +56,13 @@ I am a Computer Science student passionate about building scalable web and mobil
 
 ## 🏆 Recent Achievements
 * **1st Prize Winner:** College Project Show (February 2026).
-* **Startup Founder:** Successfully launched **codewebx** for professional web services.
+* **Startup Founder:**  **Codewebx** for professional web and App services.
 
 ---
 
 ## 🧠 Interests & Beyond
 * 🤖 **AI/UX:** Applying Human Psychology principles to decision-making UI.
-* 🏔️ **Travel:** Nature lover, currently planning a trip to explore Nepal.
+* 🏔️ **Travel:** Nature lover, also want to hide in the Nepal's Beauty.
 * ⛩️ **Anime:** Big fan of *Solo Leveling* and *Jujutsu Kaisen*.
 
 ---
