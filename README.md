@@ -68,6 +68,6 @@ I am a Computer Science student passionate about building scalable web and mobil
 ---
 
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/shivthecoder/) | [Portfolio](https://your-portfolio.com) | [Email](mailto:your-srd887490@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shivthecoder/) | [Portfolio](https://portfolio-xi-seven-27.vercel.app/) | [Email](mailto:your-srd887490@gmail.com)
 
 *"Turning coffee into code and ideas into reality."*
